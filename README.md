@@ -1,1 +1,2 @@
 # Spam-message-detector
+This project implements a Spam Message Detector using Natural Language Processing (NLP) techniques. It classifies SMS/text messages as Spam or Ham (Not Spam). The goal is to clean and process raw text data and apply machine learning to accurately detect spam messages.The processes I've been through making this model are Text preprocessing,countvectorization,normalization using stemming,TF-IDF,Naive Bayes algorithm and lastly Pipeline.
